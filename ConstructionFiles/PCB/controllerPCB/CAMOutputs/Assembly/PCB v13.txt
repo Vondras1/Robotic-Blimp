@@ -1,0 +1,10 @@
+Partlist exported from Team Hub: U Fredyho ve sklepì   Project: Bechelor_project  Board: PCB v13 at 14.05.2024 9:03
+
+Qty Value                     Device                    Package                   Parts                                                   Description 
+4   BUTTON                    BUTTON                    BUTTON_12X12              BUTTON_DOWN, BUTTON_FLY_FORWARD, BUTTON_LAND, BUTTON_UP             
+2   LED                       LED                       LED                       RED, U$6                                                            
+1   LORA                      LORA                      LORA                      U$2                                                                 
+7   RESISTOR                  RESISTOR                  RESISTOR                  U$7, U$8, U$9, U$10, U$11, U$12, U$13                               
+1   RGB_LED                   RGB_LED                   RGB_PINS                  U$14                                                                
+1   ROTARY_POTENTIOMETER_PINS ROTARY_POTENTIOMETER_PINS ROTARY_POTENTIOMETER_PINS POTENTIOMETER                                                       
+1   TEENSY_4.0                TEENSY_4.0                TEENSY_4.0                U$1                                                                 

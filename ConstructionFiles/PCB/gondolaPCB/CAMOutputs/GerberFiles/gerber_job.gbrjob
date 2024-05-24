@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2024-05-14T06:36:29Z",
+        "GenerationSoftware": {
+            "Application": "Fusion Electronics",
+            "Vendor": "Autodesk",
+            "Version": "9.7.0"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "PCB_gondola v28"
+        },
+        "Owner": "Vojtěch Vondráček <vondrvo5@fel.cvut.cz>",
+        "Size": {
+            "X": 141.751981,
+            "Y": 244.554869
+        }
+    }
+}

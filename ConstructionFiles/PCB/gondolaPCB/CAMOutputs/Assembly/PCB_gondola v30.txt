@@ -1,0 +1,18 @@
+Partlist exported from Team Hub: U Fredyho ve sklepì   Project: Bechelor_project  Board: PCB_gondola v30 at 14.05.2024 8:36
+
+Qty Value       Device      Package     Parts                         Description 
+1   BATT_CON    BATT_CON    BATT_CON    U$10                                      
+1   BEC         BEC         BEC         U$4                                       
+1   CON_2       CON_2       CON_2       U$12                                      
+1   DHT-22      DHT-22      DHT-22      U$3                                       
+3   ESC         ESC         ESC         DDD, U$23, U$24                           
+1   GPS_MODUL   GPS_MODUL   GPS_MODUL   U$7                                       
+4   JUMPER      JUMPER      JUMPER      JUMPER, JUMPER1, JUMPER2, U$1             
+2   LED         LED         LED         U$15, U$16                                
+1   LORA        LORA        LORA        U$5                                       
+1   MICRO_SD    MICRO_SD    MICRO_SD    U$6                                       
+1   MPL3115A2   MPL3115A2   MPL3115A2   U$2                                       
+1   PINS_US-100 PINS_US-100 PINS_US-100 US-100                                    
+3   RESISTOR    RESISTOR    RESISTOR    U$14, U$18, U$19                          
+1   SERVO       SERVO       SERVO       SERVO                                     
+1   TEENSY_4.0  TEENSY_4.0  TEENSY_4.0  U$17                                      

@@ -32,7 +32,7 @@ float lastSentTimeInterval;
 float Kp = 0.9;
 float Ki = 0.08;
 float Kd = 1.3;
-float n = 300;
+float n = 30;
 unsigned int SampleTime = 200;
 float Upper = 3.5596;
 float Lower = -1.9945;
