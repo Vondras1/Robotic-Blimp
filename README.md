@@ -1,7 +1,7 @@
 # Robotic-Blimp
 Robotic Blimp repository: This repository contains all necessary resources for building and controlling a robotic blimp. 
 
-![Gondola photo](Media/gondola2.jpg)
+<img src="Media/gondola2.jpg" alt="Gondola photo" width="500">
 
 -----------------
 Structure:
