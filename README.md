@@ -1,10 +1,9 @@
 # Robotic-Blimp
 Robotic Blimp repository: This repository contains all necessary resources for building and controlling a robotic blimp. 
 
-<img src="Media/gondola2.jpg" alt="Gondola photo" width="500">
+**Watch the blimp in action: [YouTube Demo](https://youtu.be/4T1CnRyYA0I)**
 
-Demo Video
-Watch the blimp in action: [YouTube Demo](https://youtu.be/4T1CnRyYA0I)
+<img src="Media/gondola2.jpg" alt="Gondola photo" width="500">
 
 -----------------
 Structure:
