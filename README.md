@@ -3,7 +3,7 @@ Robotic Blimp repository: This repository contains all necessary resources for b
 
 <img src="Media/gondola2.jpg" alt="Gondola photo" width="500">
 
-## Demo Video
+Demo Video
 Watch the blimp in action: [YouTube Demo](https://youtu.be/4T1CnRyYA0I)
 
 -----------------
